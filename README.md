@@ -8,7 +8,7 @@ The purpose was to do meaningful analysis of data provided and filter to only da
 
 ### Analysis of Outcomes Based on Launch Date
 There are definitely better months to launch your campaign. It isn’t immediately clear as to why that is, but May is the most successful month with June and July being the next best options. It would be good to avoid November and December as those are the least successful months. 
-
+![Theater Outcomes vs Launch](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Again, there is some obvious correlation between how much funding is asked for and the chance of success. While there are many successful campaigns across the funding range, there is the greatest chance for success (over 70%!) if your goal is $5000 or less. 
