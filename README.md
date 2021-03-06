@@ -8,11 +8,11 @@ The purpose was to do meaningful analysis of data provided and filter to only da
 
 ### Analysis of Outcomes Based on Launch Date
 There are definitely better months to launch your campaign. It isn’t immediately clear as to why that is, but May is the most successful month with June and July being the next best options. It would be good to avoid November and December as those are the least successful months. 
-Insert Picture
+
 
 ### Analysis of Outcomes Based on Goals
 Again, there is some obvious correlation between how much funding is asked for and the chance of success. While there are many successful campaigns across the funding range, there is the greatest chance for success (over 70%!) if your goal is $5000 or less. 
-Insert Picture
+![Outcomes vs Goals](Outcomes_vs_Goals.png) 
 
 ### Challenges and Difficulties Encountered
 This was easy data to work with, meaning that is was easy to see correlation of successful Kickstarters and when they were launched and how much funding they asked for. There wasn't a lot of data cleanup needed to make that visible. The formulas needed to do this work were fairly basic, but hinted at future complexities when the data isn't so easily cleaned up. This data was also very easy to interpret, but I could foresee situations where it isn’t so obvious on a graph or in a chart that there are clear answers to your questions. 
